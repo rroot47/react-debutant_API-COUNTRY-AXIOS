@@ -9,4 +9,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-// "homepage": "https://rroot47.github.io/react-debutant_API-COUNTRY-AXIOS/",
